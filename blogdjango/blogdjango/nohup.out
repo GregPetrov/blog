@@ -1,3 +1,15 @@
 nohup: ./manage.py: No such file or directory
 Watching for file changes with StatReloader
 [16/Jan/2024 15:23:19] "GET / HTTP/1.1" 200 10629
+[16/Jan/2024 15:35:37] "GET / HTTP/1.1" 200 10629
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+January 16, 2024 - 15:23:16
+Django version 5.0.1, using settings 'blogdjango.settings.local'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
