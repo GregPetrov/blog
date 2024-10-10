@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://gregpetrov.github.io/"
+baseURL = "https://gregpetrov.github.io/gregpetrov"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
 title = "Greg Petrov's Blog"
