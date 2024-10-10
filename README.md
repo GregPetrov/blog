@@ -1,3 +1,3 @@
-# Temporary Location of My Personal Blog.
+# Hugo Simple Starter Template
 
-And mostly for my personal use. Not going to be polished and so on and so fourth.
+This is a quick start template for [hugo-simple](https://github.com/maolonglong/hugo-simple), and it has been configured with a GitHub Action for deploying pages to [GitHub Pages](https://pages.github.com).

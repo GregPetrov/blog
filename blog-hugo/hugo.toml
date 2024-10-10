@@ -1,5 +1,0 @@
-baseURL = 'https://petrov.plus/'
-languageCode = 'en-us'
-title = 'My Personal Blog'
-# https://github.com/nanxiaobei/hugo-paper
-theme = 'paper'
