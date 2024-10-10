@@ -4,10 +4,16 @@ on:
   push:
     branches:
       - main  # Set a branch that will trigger a deployment
-  pull_request:
+
+# Added from Perplexity answer
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  deploy:
+  build: # from Perplexity answer
+  # deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,14 +25,16 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.124.0'
+          hugo-version: 'latest'
+          # hugo-version: '0.124.0'
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
-        if: github.ref == 'refs/heads/main'
+        # Perplexity answer doesn't contain this one
+        # if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
