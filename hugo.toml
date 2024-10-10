@@ -2,7 +2,7 @@
 baseURL = "https://gregpetrov.github.io/greg-petrov"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
-title = "Greg Petrov's Blogzzz"
+title = "Greg Petrov's Blog"
 copyright = "© 2024 Greg Petrov"
 
 # Generate a nice robots.txt for SEO
