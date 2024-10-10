@@ -6,10 +6,10 @@ on:
       - main  # Set a branch that will trigger a deployment
 
 # Added from Perplexity answer
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
 
 jobs:
   build: # from Perplexity answer
