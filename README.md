@@ -1,3 +1,3 @@
-# My Personal Blog
+# Temporary Location of My Personal Blog.
 
-This is very first README.md version in my personal blog.
+And mostly for my personal use. Not going to be polished and so on and so fourth.
