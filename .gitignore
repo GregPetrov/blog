@@ -1,4 +1,2 @@
-venv/
-db.sqlite3
-.env
 .DS_Store
+.hugo_build.lock
