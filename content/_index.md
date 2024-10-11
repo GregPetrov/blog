@@ -2,4 +2,4 @@
 title: "ᕦʕ •ᴥ•ʔᕤ"
 ---
 
-I removed default content to get started with my own blog.
+No significant information here right now. Simply move to Blog section.
