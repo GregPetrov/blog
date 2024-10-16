@@ -6,10 +6,3 @@ description = "This is sample description."
 toc = false
 +++
 
-Motivation text.
-
-
-Another text.
-
-
-This text.
