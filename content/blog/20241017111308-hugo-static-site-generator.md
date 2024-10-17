@@ -12,4 +12,4 @@ toc = false
 +++
 
 - [Hugo: Publish Website with GitHub
-Pages](/blog/20241011094140-hugo-publish-website-github-pages)
+Pages](/greg-petrov/20241011094140-hugo-publish-website-github-pages)
