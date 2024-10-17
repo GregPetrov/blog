@@ -1,5 +1,8 @@
 +++
 title = "Hugo: Publish Website with GitHub Pages"
+tags = [
+    "hugo"
+]
 date = "2024-10-11"
 +++
 
