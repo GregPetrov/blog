@@ -15,3 +15,7 @@ toc = false
 - [Hugo: Publish Website with GitHub
 Pages]({{< ref "./20241011094140-hugo-publish-website-github-pages.md" >}})
 
+- [Hugo: Publish Website with GitHub
+Pages]({{< relref "./20241011094140-hugo-publish-website-github-pages.md" >}})
+
+
