@@ -11,4 +11,5 @@ aliases = ["..."]
 toc = false
 +++
 
-- [Hugo: Publish Website with GitHub Pages](/20241011094140-hugo-publish-website-github-pages)
+- [Hugo: Publish Website with GitHub
+Pages](/blog/20241011094140-hugo-publish-website-github-pages)
