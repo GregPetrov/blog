@@ -1,6 +1,6 @@
 ---
 author: "Greg Petrov"
-title: ""
+title: "Test Title for Test blogpost"
 date: "2024-10-28"
 description: "..."
 tags:
