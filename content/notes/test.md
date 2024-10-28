@@ -2,17 +2,11 @@
 author: "Greg Petrov"
 title: "Test Title for Test blogpost"
 date: "2024-10-28"
-description: "..."
+description: "Test description for test blogpost."
 tags:
-  - "..."
-  - "..."
-categories:
-  - "..."
-  - "..."
-series:
-  - "..."
+  - "test"
 aliases:
-  - "..."
+  - "How test not title it is still test."
 toc: false
 draft: false
 ---
