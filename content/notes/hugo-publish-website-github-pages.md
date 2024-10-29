@@ -1,4 +1,5 @@
 +++
+id = 20241011094140
 title = "Hugo: Publish Website with GitHub Pages"
 tags = [
     "hugo"
